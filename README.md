@@ -1,0 +1,2 @@
+# Bootstrap-gombok
+A Bootstrap egy HTML keretrendszer azaz egy előre elkészített eszköztár ami rendkívül felgyorsíthatja a weblapkészítést. Több olyan HTML-re és CSS-re épülő előre definiált komponenst tartalmaz, amit gyakran használunk honlapjainkon. A keretrendszer használatával egyből kapunk egy egységes, modern, megjelenést a html elemhez, így pillanatok alatt építhetünk egy szép weboldalt.  Az első példa amire a Bootstrap alapvető formázásokat definiál: a gombok.
